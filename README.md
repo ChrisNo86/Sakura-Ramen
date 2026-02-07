@@ -5,7 +5,7 @@
 
 ### 📋 Overview
 
-My Developer Akademie Project, this ist the 
+This ist the first Frontend Developer Project at Developer Akademie!
 
 ## 🛠️ Built with
 
