@@ -16,5 +16,5 @@ This ist the first Frontend Developer Project at Developer Akademie!
 
 ## ✍️ Author
 
- - [Webiste](coming)
- - [Github](https://github.com/ChristianNoack)
+ - [Webiste](christzian-noack.com)
+ - [Github](https://github.com/ChrisNo86)
