@@ -1,16 +1,19 @@
 # Sakura Ramen
 
-![]()
+## Sakura Ramen – Restaurant Landing Page
 
+A fully responsive restaurant landing page built with HTML, CSS and vanilla JavaScript.
 
-### 📋 Overview
+The project was developed as part of the Developer Akademie training program and focuses on:
 
-This ist the first Frontend Developer Project at Developer Akademie!
+- Semantic HTML structure
+- Responsive layout using Flexbox & Grid
+- Clean component-based styling
+- Mobile-first design approach
+- Interactive elements with JavaScript
 
-## 🛠️ Built with
+This project demonstrates structured frontend development and attention to design consistency.
 
-- HTML
-- CSS / SCSS
 
 ## ⚙️ Use for free
 
