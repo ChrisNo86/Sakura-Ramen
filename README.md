@@ -19,5 +19,5 @@ This project demonstrates structured frontend development and attention to desig
 
 ## ✍️ Author
 
- - [Webiste](christzian-noack.com)
+ - [Webiste](https://christian-noack.com)
  - [Github](https://github.com/ChrisNo86)
