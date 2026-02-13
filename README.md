@@ -1,7 +1,5 @@
 # 🍜 Sakura Ramen
 
-![Preview](./assets/preview.png)
-
 Responsive restaurant landing page built with HTML, CSS and JavaScript.  
 Developed as part of the **Developer Akademie** training program.
 
