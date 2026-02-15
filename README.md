@@ -40,8 +40,7 @@ The project focuses on:
 
 ## 🖥 Preview
 
-> Add a screenshot of your homepage and name it `preview.png`  
-> Store it inside an `/assets` folder.
+#coming
 
 ---
 
