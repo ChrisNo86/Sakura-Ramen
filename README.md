@@ -47,7 +47,7 @@ The project focuses on:
 ## ⚙ Installation
 
 ```bash
-git clone https://github.com/yourusername/sakura-ramen.git
+git clone https://github.com/ChrisNo86/sakura-ramen.git
 cd sakura-ramen
 open index.html
 
